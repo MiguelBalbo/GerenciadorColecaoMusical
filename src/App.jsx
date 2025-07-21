@@ -1,5 +1,5 @@
 import AddMusic from "./components/AddMusic";
-import Musics from "./components/musics";
+import Musics from "./components/Musics";
 import { useEffect, useState } from "react";
 import { v4 } from "uuid";
 
